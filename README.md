@@ -1,2 +1,2 @@
-# .github
-teams readme
+# Curio One
+ftc team in the netherlands
