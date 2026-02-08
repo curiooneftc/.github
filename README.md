@@ -1,0 +1,2 @@
+# .github
+teams readme
