@@ -63,9 +63,15 @@ We are **Curio One FTC Team 222223**, a passionate group of young engineers and 
 </p>
 
 ### 📊 Quick Stats
-- 📦 **3** Public Repositories
-- 👥 **1+** Team Members
-- 🌍 Based in the **Netherlands**
+<p>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/orgs/curiooneftc&query=$.public_repos&label=Repositories&style=flat-square&color=3B82F6&logo=github" alt="Repositories"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/orgs/curiooneftc&query=$.public_members&label=Members&style=flat-square&color=FFD700&logo=people" alt="Members"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Location-Netherlands-FF6B35?style=flat-square&logo=google-maps&logoColor=white" alt="Location"/>
+</p>
 
 </td>
 </tr>
